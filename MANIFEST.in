@@ -1,1 +1,1 @@
-recursive-include *.mp3
+recursive-include keeb/sounds *.mp3
