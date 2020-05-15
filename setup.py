@@ -19,6 +19,7 @@ setup(
     author_email='sshum00@gmail.com',
     description='Keeb generates realistic keyboard sounds depending on the input',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     keywords=['KEYBOARD', 'SOUND', 'MECHANICAL KEYBOARD'],
     download_url='https://github.com/sillyfatcat/keebsound/archive/v0.1.tar.gz',
     install_requires=[
