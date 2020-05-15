@@ -2,7 +2,7 @@ import os
 from setuptools import setup
 
 path = os.path.dirname(__file__)
-long_desc_fd = os.path.join(path, 'README.rst')
+long_desc_fd = os.path.join(path, 'README.md')
 
 long_description = ''
 
